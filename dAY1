@@ -1,21 +1,6 @@
-/*
- *  ██████╗     ██████╗ ██████╗ ██████╗ ███████╗
- * ██╔════╝    ██╔════╝ ██╔══██╗██╔══██╗██╔════╝
- * ██║         ██║      ██████╔╝██████╔╝███████╗
- * ██║         ██║      ██╔═══╝ ██╔═══╝ ╚════██║
- * ╚██████╗    ╚██████╗ ██║     ██║     ███████║
- *  ╚═════╝     ╚═════╝ ╚═╝     ╚═╝     ╚══════╝
- * ----------------------------------------------
- * 🚀 16-DAY MASTERCLASS | DAY 01
- * 👨‍🏫 INSTRUCTOR: ABHISHEK AGGARWAL
- * ----------------------------------------------
- */
-
-// ==============================================
-// 💎 PROBLEM 01: TEMPERATURE CONVERSION 🌡️
-// 📝 Task: Take Celsius input and convert to Fahrenheit
-// ==============================================
-
+/
+// 
+//💎 PROBLEM 01: TEMPERATURE CONVERSION 🌡️
 #include<iostream>
 using namespace std;
 
@@ -31,10 +16,8 @@ int main(){
     
 }
 
-// ==============================================
+
 // 💎 PROBLEM 02: GLOBAL VS LOCAL VARIABLE 🌐
-// 📝 Task: Demonstrate scope and type casting
-// ==============================================
 
 #include<iostream>
 using namespace std;
@@ -53,10 +36,8 @@ int main(){
     
 }
 
-// ==============================================
+
 // 💎 PROBLEM 03: LOGICAL & RELATIONAL OPERATORS ⚖️
-// 📝 Task: Check for Equilateral Triangle validity
-// ==============================================
 
 #include<iostream>
 using namespace std;
@@ -71,10 +52,8 @@ int main() {
     
 }
 
-// ==============================================
+
 // 💎 PROBLEM 04: THE SWAP LOGIC 🔄
-// 📝 Task: Exchange values using a temporary variable
-// ==============================================
 
 #include<iostream>
 using namespace std;
@@ -93,10 +72,9 @@ int main() {
     return 0;
 }
 
-// ==============================================
+
 // 💎 PROBLEM 05: AREA OF SHAPES 📐
-// 📝 Task: Selection logic for Circle, Rect, & Triangle
-// ==============================================
+
 
 #include<iostream>
 using namespace std;
@@ -124,10 +102,9 @@ int main() {
     
 }
 
-// ==============================================
+
 // 💎 PROBLEM 06: SUM & AVERAGE 📊
-// 📝 Task: Calculate total and mean of 3 numbers
-// ==============================================
+
 
 #include<iostream>
 using namespace std;
@@ -146,10 +123,8 @@ int main() {
     return 0;
 }
 
-// ==============================================
+
 // 💎 PROBLEM 07: LOGIN CREDENTIALS 🔐
-// 📝 Task: Verify ID and Password with logic gates
-// ==============================================
 
 #include<iostream>
 using namespace std;
