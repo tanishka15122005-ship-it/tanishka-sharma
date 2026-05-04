@@ -1,21 +1,7 @@
-/*
- *  ██████╗     ██████╗ ██████╗ ██████╗ ███████╗
- * ██╔════╝    ██╔════╝ ██╔══██╗██╔══██╗██╔════╝
- * ██║         ██║      ██████╔╝██████╔╝███████╗
- * ██║         ██║      ██╔═══╝ ██╔═══╝ ╚════██║
- * ╚██████╗    ╚██████╗ ██║     ██║     ███████║
- *  ╚═════╝     ╚═════╝ ╚═╝     ╚═╝     ╚══════╝
- * ----------------------------------------------
- * 🚀 16-DAY MASTERCLASS | DAY 02
- * 👨‍🏫 INSTRUCTOR: ABHISHEK AGGARWAL
- * ----------------------------------------------
- */
-
-// ==============================================
+/
+//
 // 💎 PROBLEM 01: SIMPLE IF STATEMENT 🚦
-// 📝 Task: Basic validation for voting eligibility
-// ==============================================
-
+// 
 // #include <iostream>
 // using namespace std;
 
@@ -29,10 +15,8 @@
 //      return 0;
 // }
 
-// ==============================================
+
 // 💎 PROBLEM 02: IF-ELSE STATEMENT 🛤️
-// 📝 Task: Handling both binary outcomes for age
-// ==============================================
 
 #include <iostream>
 using namespace std;
@@ -49,10 +33,8 @@ int main() {
     return 0;
 }
 
-// ==============================================
+
 // 💎 PROBLEM 03: NESTED IF-ELSE LOGIC 🕸️
-// 📝 Task: Categorizing voters and senior citizens
-// ==============================================
 
 #include <iostream>
 using namespace std;
@@ -76,10 +58,8 @@ int main() {
     }
 }
 
-// ==============================================
+
 // 💎 PROBLEM 04: TERNARY OPERATOR ⚡
-// 📝 Task: Inline logic to find the maximum number
-// ==============================================
 
 #include <iostream>
 using namespace std;
@@ -98,10 +78,8 @@ int main() {
     return 0;
 }
 
-// ==============================================
+
 // 💎 PROBLEM 05: SWITCH STATEMENT 📅
-// 📝 Task: Map numeric inputs to day names
-// ==============================================
 
 #include <iostream>
 using namespace std;
@@ -137,10 +115,9 @@ int main() {
     }
 }
 
-// ==============================================
+
 // 💎 PROBLEM 06: IVR SUPPORT SYSTEM 📞
-// 📝 Task: Menu selection for customer services
-// ==============================================
+
 
 // #include <iostream>
 // using namespace std;
@@ -167,10 +144,8 @@ int main() {
 //      }
 // }
 
-// ==============================================
+
 // 💎 PROBLEM 07: SMART HOME LIGHTING 💡
-// 📝 Task: Context-aware lighting based on motion/time
-// ==============================================
 
 #include <iostream>
 using namespace std;
